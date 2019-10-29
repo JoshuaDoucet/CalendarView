@@ -1,2 +1,2 @@
 # CalendarView
-A simple Java command line utility that displays the calendar of a given month and year.
+A simple C++ Windows command line utility that displays the calendar of a given month and year.
